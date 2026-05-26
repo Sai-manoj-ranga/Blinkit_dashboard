@@ -8,6 +8,7 @@
 
 - [Overview](#-overview)
 - [Dashboard Previews](#-dashboard-previews)
+- [Blinkit Dashboard](#-dashboard)
 - [KPIs Tracked](#-kpis-tracked)
 - [Key Insights](#-key-insights)
 - [Dataset](#-dataset)
@@ -58,6 +59,10 @@ This view shows the **distribution of average customer ratings** across differen
 This is the **interactive slicer panel** that allows users to dynamically filter the entire dashboard. It includes slicers for **Outlet Location Type** (Tier 1 / 2 / 3), **Outlet Size** (Small / Medium / High), **Item Type**, and **Outlet Type**. All visuals across every page update in real time when filters are applied.
 
 ---
+
+## 📸 Dashboard
+
+
 
 ## 📈 KPIs Tracked
 
