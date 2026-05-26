@@ -60,9 +60,9 @@ This is the **interactive slicer panel** that allows users to dynamically filter
 
 ---
 
-## 📸 Dashboard
+## 📸 Blinkit Dashboard
 
-
+![Powerbi_dashboard](powerbi_dashboard_blinkit.png)
 
 ## 📈 KPIs Tracked
 
